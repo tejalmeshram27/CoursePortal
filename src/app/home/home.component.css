@@ -1,0 +1,10 @@
+.card{
+    margin: 20px;
+}
+
+#success-card{
+    display: grid;
+    display: flex;
+    grid-template-columns: 1fr 1fr 1fr ;
+}
+    

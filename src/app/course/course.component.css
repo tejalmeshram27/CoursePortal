@@ -1,0 +1,18 @@
+/* .course-card{ */
+    /* display: flex; */
+    /* flex-direction: row; */
+
+/* } */
+
+.card{
+    margin: 20px;
+}
+
+#cardsdisplay{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.checked {
+    color: orange;
+  }
